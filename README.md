@@ -6,7 +6,7 @@
 
 ## Links and Resources
 
-[Deployed Link](https://jarrell-bearer-auth.herokuapp.com/users)
+[Deployed Link](https://jarrell-bearer-auth.herokuapp.com/)
 
 [Github Actions](https://github.com/Jarrell28/bearer-auth/actions)
 
